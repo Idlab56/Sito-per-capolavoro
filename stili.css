@@ -1,0 +1,32 @@
+.rocchi
+{
+    color:red;
+    font-family: Verdana;
+    text-align : center;
+    font-size: 250px;
+}
+body
+{
+    background-color:#292929;
+}
+.chi
+{
+    color:white;
+    font-family: Verdana;
+    text-align : center;
+    font-size: 150px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.si
+{
+    color:white;
+    font-family: Verdana;
+    text-align : center;
+    font-size: 100px;
+}
